@@ -1,3 +1,4 @@
+import scrapy
 import pytest_mock
 from pydantic import BaseModel
 # Python program for simple calculator
